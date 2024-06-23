@@ -44,7 +44,16 @@ Conectar PowerBI con la fuente de datos ya procesada (.parquet) Creación de vis
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=luisfer2405&show_icons=true&theme=radical)
+
+### 📚 Lenguajes Más Utilizados
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfer2405&layout=compact&theme=radical)
+
+### 🚀 Commits y Actividad
+![Commits recientes](https://github-readme-streak-stats.herokuapp.com/?user=luisfer2405&theme=radical)
+
+### 💡 Gráficos de Actividad
+![Actividad](https://activity-graph.herokuapp.com/graph?username=luisfer2405&theme=radical)
+
 ---
 
 ## 🏆 Logros
