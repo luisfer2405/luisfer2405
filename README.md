@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Luis Fernando Montero Castro
 
-### Ingeniero en Sistemas en formación y apasionado por la Ciencia de Datos.
+### Ingeniero en formación y apasionado por la Ciencia de Datos.
 
 ---
 
