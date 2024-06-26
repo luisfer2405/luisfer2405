@@ -23,7 +23,7 @@ Me siento emocionado de comenzar a usar estas habilidades en mi primer trabajo e
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://www.linkedin.com/in/luis-fernando-montero-castro-711b6524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://www.linkedin.com/in/luis-fernando-montero-castro-711b6524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 
 ---
 
@@ -65,3 +65,4 @@ Conectar PowerBI con la fuente de datos ya procesada (.parquet) Creación de vis
 
 Gracias por visitar mi perfil y no dudes en contactarme para cualquier colaboración o pregunta.
 
+yo
