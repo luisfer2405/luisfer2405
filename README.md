@@ -23,7 +23,7 @@ Me siento emocionado de comenzar a usar estas habilidades en mi primer trabajo e
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://www.linkedin.com/in/luis-fernando-montero-castro-711b6524b?utm)]
+![LinkedIn](https://www.linkedin.com/in/luis-fernando-montero-castro-711b6524b?utm)]
 
 
 ---
